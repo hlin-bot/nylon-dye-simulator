@@ -1,0 +1,5 @@
+streamlit
+colorspacious
+scikit-learn
+pandas
+numpy
